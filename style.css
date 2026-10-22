@@ -7,3 +7,5 @@ body{background:#060b12;background-image:radial-gradient(ellipse 65% 650px at 0 
 @media(prefers-reduced-motion:reduce){.original-devices{animation:none}.reveal{opacity:1;transform:none;transition:none}}
 
 .services .icon{display:flex;align-items:center;justify-content:center;width:62px;height:62px;color:#087e90;background:linear-gradient(135deg,#e4faff,#f0f7f9);border:1px solid #c4e7ed;border-radius:17px;box-shadow:inset 0 1px #fff}.services .icon svg{width:35px;height:35px;transition:transform .25s}.services article:hover .icon svg{transform:translateY(-2px)}
+
+.review-person .google-mark{width:23px;height:23px;margin-left:auto;flex-shrink:0;background:#fff;border-radius:50%;padding:3px;box-sizing:content-box}
