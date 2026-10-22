@@ -1,0 +1,7 @@
+{
+  "name": "turcotech-previa",
+  "assets": {
+    "directory": "./dist"
+  },
+  "compatibility_date": "2026-10-19"
+}
